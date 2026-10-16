@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="app-box">
+  <schema id="org.gnome.shell.extensions.app-box" path="/org/gnome/shell/extensions/app-box/">
+    <key name="toggle-app-box" type="as">
+      <default><![CDATA[['<Super>a']]]></default>
+      <summary>Atajo para abrir/cerrar App Box</summary>
+      <description>Combinación de teclas para alternar la visibilidad de App Box.</description>
+    </key>
+  </schema>
+</schemalist>

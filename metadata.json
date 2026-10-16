@@ -1,0 +1,8 @@
+{
+  "name": "App Box",
+  "description": "custom app launcher",
+  "uuid": "app-box@davaroprojects.gmail.com",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "settings-schema": "org.gnome.shell.extensions.app-box",
+  "url": "https://github.com/davaroprojects/app-box"
+}
